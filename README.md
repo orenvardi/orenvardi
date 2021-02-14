@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @orenvardi
+- 🌱 I’m currently in infinity labs full stack training
